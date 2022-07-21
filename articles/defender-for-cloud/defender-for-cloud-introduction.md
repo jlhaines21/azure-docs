@@ -47,7 +47,7 @@ Defender for Cloud offers security alerts that are powered by [Microsoft Threat 
 
 ## Protect all of your resources under one roof
 
-Because Defender for Cloud is an Azure-native service, many Azure services are monitored and protected without needing any deployment, but you can also add resources the are on-premises or in other public clouds.
+Because Defender for Cloud is an Azure-native service, many Azure services are monitored and protected without needing any deployment, but you can also add resources that are on-premises or in other public clouds.
 
 When necessary, Defender for Cloud can automatically deploy a Log Analytics agent to gather security-related data. For Azure machines, deployment is handled directly. For hybrid and multicloud environments, Microsoft Defender plans are extended to non Azure machines with the help of [Azure Arc](https://azure.microsoft.com/services/azure-arc/). CSPM features are extended to multicloud machines without the need for any agents (see [Defend resources running on other clouds](#defend-resources-running-on-other-clouds)).
 
